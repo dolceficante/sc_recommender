@@ -1,0 +1,6 @@
+{
+    "name": "drupal/sc_recommender",
+    "description": "This is an example composer.json for example module.",
+    "type": "drupal-module",
+    "license": "GPL-2.0+"
+}

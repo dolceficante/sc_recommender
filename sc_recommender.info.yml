@@ -1,0 +1,15 @@
+name: SemanticClarity Product Recommender Module
+description: Allows for the browsing and viewing of Product Recommendations
+package: Custom
+
+type: module
+core: 8.x
+
+dependencies:
+  - datetime
+  - link
+  - views
+
+configure: sc_recommender.settings
+
+hidden: false

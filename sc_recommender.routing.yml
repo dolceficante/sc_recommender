@@ -1,0 +1,7 @@
+sc_recommender.content:
+  path: '/sc_recommender'
+  defaults:
+    _controller: '\Drupal\sc_recommender\Controller\SCRecommenderController::content'
+    _title: 'Hello World'
+  requirements:
+    _permission: 'access content'
